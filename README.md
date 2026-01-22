@@ -4,7 +4,7 @@ reverse engineer / kernel developer working on windows internals and anti-cheat 
 
 currently researching low-level system architecture and building tools for binary analysis. most of my work involves kernel drivers, obfuscation techniques, and windows security mechanisms.
 
-![followers](https://img.shields.io/github/followers/ck0i?style=flat&logo=github&color=58a6ff) ![views](https://komarev.com/ghpvc/?username=ck0i&color=58a6ff&style=flat)
+![followers](https://img.shields.io/github/followers/ck0i?style=flat&logo=github&color=58a6ff) ![views](https://komarev.com/ghpvc/?username=helz-dotcom&color=58a6ff&style=flat)
 
 ## projects
 
