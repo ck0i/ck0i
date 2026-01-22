@@ -39,4 +39,4 @@ occasionally write about reverse engineering and kernel development at [helz.dev
 
 ---
 
-[website](https://helz.dev) • [github (you're on it right now)](https://github.com/helz-dotcom) • discord - ck0i
+[website](https://helz.dev) • [github (you're on it right now)](https://github.com/ck0i) • discord - ck0i
