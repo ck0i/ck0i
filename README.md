@@ -17,15 +17,6 @@ comprehensive examples of kernel-to-usermode communication methods for windows d
 ### [wraith-rs](https://github.com/helz-dotcom/wraith-rs) ![stars](https://img.shields.io/github/stars/helz-dotcom/wraith-rs?style=flat&color=58a6ff)
 rust library for windows process manipulation and memory operations. focused on clean abstractions over win32 api.
 
-### [Sentinel](https://github.com/helz-dotcom/Sentinel) ![stars](https://img.shields.io/github/stars/helz-dotcom/Sentinel?style=flat&color=58a6ff)
-static analysis tool for kernel drivers. scans for common detection vectors used by anti-cheat systems - string signatures, certificate validation, suspicious patterns.
-
-### [DXComm](https://github.com/helz-dotcom/DXComm) ![stars](https://img.shields.io/github/stars/helz-dotcom/DXComm?style=flat&color=58a6ff)
-proof of concept for kernel-user communication through directx shared surfaces. alternative approach to traditional driver communication channels.
-
-### [CircBufferInjection](https://github.com/helz-dotcom/CircBufferInjection) ![stars](https://img.shields.io/github/stars/helz-dotcom/CircBufferInjection?style=flat&color=58a6ff)
-demonstrates mouse input injection by directly manipulating the circular buffer in mouclass.sys. bypasses standard input APIs entirely.
-
 ## what i work with
 
 **languages:** c++, c, rust, assembly (x86/x64), python  
