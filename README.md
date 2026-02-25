@@ -1,33 +1,49 @@
-# helz
+<div align="center">
 
-reverse engineer / kernel developer working on windows internals and anti-cheat systems
+# > helz_
 
-currently researching low-level system architecture and building tools for binary analysis. most of my work involves kernel drivers, obfuscation techniques, and windows security mechanisms.
+security researcher · kernel developer · systems programmer
 
-![followers](https://img.shields.io/github/followers/ck0i?style=flat&logo=github&color=58a6ff) ![views](https://komarev.com/ghpvc/?username=helz-dotcom&color=58a6ff&style=flat)
+i break things at the lowest level to understand how they work.
 
-## projects
+[![GitHub](https://img.shields.io/github/followers/ck0i?label=follow&style=flat&logo=github&color=0d1117&labelColor=0d1117)](https://github.com/ck0i)&nbsp;&nbsp;
+[![Blog](https://img.shields.io/badge/helz.dev/blog-0d1117?style=flat&labelColor=0d1117)](https://helz.dev/blog)&nbsp;&nbsp;
+[![Discord](https://img.shields.io/badge/ck0i-0d1117?style=flat&logo=discord&logoColor=5865F2&labelColor=0d1117)](https://discord.com/users/ck0i)
 
-### [Cloakwork](https://github.com/helz-dotcom/Cloakwork) ![stars](https://img.shields.io/github/stars/helz-dotcom/Cloakwork?style=flat&color=58a6ff)
-header-only c++20 obfuscation library with compile-time encryption and polymorphic transformations. designed for maximum portability without external dependencies.
+</div>
 
-### [ETOC](https://github.com/helz-dotcom/ETOC) ![stars](https://img.shields.io/github/stars/helz-dotcom/ETOC?style=flat&color=58a6ff)
-comprehensive examples of kernel-to-usermode communication methods for windows drivers. covers ioctl, shared memory, callbacks, and alternative approaches.
+<br>
 
-### [wraith-rs](https://github.com/helz-dotcom/wraith-rs) ![stars](https://img.shields.io/github/stars/helz-dotcom/wraith-rs?style=flat&color=58a6ff)
-rust library for windows process manipulation and memory operations. focused on clean abstractions over win32 api.
+i work on windows internals, anti-cheat systems, hypervisors, and anything that runs in ring 0. most of my time is spent in ida, writing kernel drivers, or figuring out how detection systems think. i also build products @ [voidware studios](https://voidware.org).
 
-## what i work with
+<br>
 
-**languages:** c++, c, rust, assembly (x86/x64), python  
-**focus areas:** kernel driver development, binary reverse engineering, windows internals, anti-cheat research, compiler optimization, memory manipulation
+**projects**
 
-most of my work involves digging through ida pro, building kernel drivers, or figuring out how anti-cheat systems detect modifications. if it runs in kernel mode or involves low-level windows apis, i've probably messed with it.
+| | |
+|:--|:--|
+| [**Cloakwork**](https://github.com/ck0i/Cloakwork) | header-only c++20 obfuscation. compile-time encryption, polymorphic transforms, zero deps. |
+| [**Kernelcloak**](https://github.com/ck0i/Kernelcloak) | kernel driver protection and obfuscation built on c++17. |
+| [**ETOC**](https://github.com/ck0i/ETOC) | comprehensive kernel-to-usermode comms. ioctl, shared memory, callbacks, and more. |
+| [**wraith-rs**](https://github.com/ck0i/wraith-rs) | rust library for windows process manipulation. clean abstractions over win32. |
+| [**SigmaDrift**](https://github.com/ck0i/SigmaDrift) | biomechanical mouse movement algorithm. windmouse's successor. |
+| [**claude-patcher**](https://github.com/ck0i/claude-patcher) | companion to my [breaking claude code](https://helz.dev/blog/breaking-claude-code/) writeup. |
 
-## writing
+<br>
 
-occasionally write about reverse engineering and kernel development at [helz.dev/blog](https://helz.dev/blog)
+**recent writing**
 
----
+[sigmadrift: windmouse's successor](https://helz.dev/blog/sigmadrift-windmouses-successor) · feb 2026<br>
+[obfuscating kernel drivers without crashing](https://helz.dev/blog/obfuscating-kernel-drivers) · feb 2026<br>
+[why anti-cheats walk your call stack](https://helz.dev/blog/why-anti-cheats-walk-your-call-stack) · jan 2026
 
-[website](https://helz.dev) • [github (you're on it right now)](https://github.com/ck0i) • discord - ck0i
+<br>
+
+```
+c++ · c · rust · x86/x64 asm · python · hlsl
+kernel drivers · reverse engineering · anti-cheat · hypervisors · directx
+```
+
+<div align="center">
+<sub><a href="https://helz.dev">helz.dev</a></sub>
+</div>
