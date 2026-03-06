@@ -31,11 +31,9 @@ i work on windows internals, anti-cheat systems, hypervisors, and anything that 
 
 <br>
 
-**recent writing**
-
-[sigmadrift: windmouse's successor](https://helz.dev/blog/sigmadrift-windmouses-successor) · feb 2026<br>
-[obfuscating kernel drivers without crashing](https://helz.dev/blog/obfuscating-kernel-drivers) · feb 2026<br>
-[why anti-cheats walk your call stack](https://helz.dev/blog/why-anti-cheats-walk-your-call-stack) · jan 2026
+i write research and blogs here (you should read them if you're bored):
+- https://helz.dev/research
+- https://helz.dev/blog
 
 <br>
 
