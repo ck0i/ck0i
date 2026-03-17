@@ -18,19 +18,6 @@ i work on windows internals, anti-cheat systems, hypervisors, and anything that 
 
 <br>
 
-**projects**
-
-| | |
-|:--|:--|
-| [**Cloakwork**](https://github.com/ck0i/Cloakwork) | header-only c++20 obfuscation. compile-time encryption, polymorphic transforms, zero deps. |
-| [**Kernelcloak**](https://github.com/ck0i/Kernelcloak) | kernel driver protection and obfuscation built on c++17. |
-| [**ETOC**](https://github.com/ck0i/ETOC) | comprehensive kernel-to-usermode comms. ioctl, shared memory, callbacks, and more. |
-| [**wraith-rs**](https://github.com/ck0i/wraith-rs) | rust library for windows process manipulation. clean abstractions over win32. |
-| [**SigmaDrift**](https://github.com/ck0i/SigmaDrift) | biomechanical mouse movement algorithm. windmouse's successor. |
-| [**claude-patcher**](https://github.com/ck0i/claude-patcher) | companion to my [breaking claude code](https://helz.dev/blog/breaking-claude-code/) writeup. |
-
-<br>
-
 i write research and blogs here (you should read them if you're bored):
 - https://helz.dev/research
 - https://helz.dev/blog
