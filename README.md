@@ -19,8 +19,8 @@ i work on windows internals, anti-cheat systems, hypervisors, and anything that 
 <br>
 
 i write research and blogs here (you should read them if you're bored):
-- https://helz.dev/research
-- https://helz.dev/blog
+- https://ckoi.dev/research
+- https://ckoi.dev/blog
 
 <br>
 
@@ -30,5 +30,5 @@ kernel drivers · reverse engineering · anti-cheat · hypervisors · directx
 ```
 
 <div align="center">
-<sub><a href="https://helz.dev">helz.dev</a></sub>
+<sub><a href="https://ckoi.dev">ckoi.dev</a></sub>
 </div>
