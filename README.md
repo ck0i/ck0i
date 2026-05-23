@@ -14,7 +14,7 @@ i break things at the lowest level to understand how they work.
 
 <br>
 
-i work on windows internals, anti-cheat systems, hypervisors, and anything that runs in ring 0. most of my time is spent in ida, writing kernel drivers, or figuring out how detection systems think. i also build products @ [voidware studios](https://voidware.org).
+i work on windows internals, anti-cheat systems, hypervisors, and anything that runs in ring 0. most of my time is spent in ida, writing kernel drivers, or figuring out how detection systems think.
 
 <br>
 
