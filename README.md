@@ -7,7 +7,6 @@ security researcher · kernel developer · systems programmer
 i break things at the lowest level to understand how they work.
 
 [![GitHub](https://img.shields.io/github/followers/ck0i?label=follow&style=flat&logo=github&color=0d1117&labelColor=0d1117)](https://github.com/ck0i)&nbsp;&nbsp;
-[![Blog](https://img.shields.io/badge/helz.dev/blog-0d1117?style=flat&labelColor=0d1117)](https://helz.dev/blog)&nbsp;&nbsp;
 [![Discord](https://img.shields.io/badge/ck0i-0d1117?style=flat&logo=discord&logoColor=5865F2&labelColor=0d1117)](https://discord.com/users/ck0i)
 
 </div>
