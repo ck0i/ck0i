@@ -7,27 +7,18 @@
 
 <br>
 
-I'm Nick, known online as **koi**. I work on anti-cheat compatibility with EA's Javelin team, and spend the rest of my time in kernel drivers, hypervisors, and figuring out how detection systems think.
+I'm Nick, known online as **koi**. I work on anti-cheat compatibility with EA's Javelin team, and spend the rest of my time figuring out how detection systems think.
 
-### Research
-
-**[Kinematic features are all you need](https://ckoi.dev/research)** <sub>2026</sub>  
-Can software tell a human hand from generated mouse input? My detector catches over 99.5% of generated movements at under 0.1% false positives, and keeps holding up against a white-box attacker.  
-<sub>[Paper](https://ckoi.dev/papers/kinematic-features-are-all-you-need.pdf) · [Zenodo](https://zenodo.org/records/18872499) · [Detector source](https://github.com/ck0i/sigmadrift-detector)</sub>
-
-### Selected writing
-
-- [IMDUI: an immediate-mode C++ UI framework for Windows](https://ckoi.dev/blog/imdui-why-we-built-our-own-ui-framework) <sub>Sep 2026</sub>
-- [Argus: kernel memory disclosure through Defender's KSLD process gate](https://ckoi.dev/blog/argus-kernel-memory-disclosure-through-defenders-ksld-process-gate) <sub>May 2026</sub>
-- [Disarming Windows Code Integrity through unprotected .data globals](https://ckoi.dev/blog/ci-dll-unsigned-driver-loading) <sub>Mar 2026</sub>
-- [Why anti-cheats walk your call stack](https://ckoi.dev/blog/why-anti-cheats-walk-your-call-stack) <sub>Jan 2026</sub>
-
-<sub>[More writing on ckoi.dev →](https://ckoi.dev/blog)</sub>
-
-### Toolbox
-
-`C++` `C` `Rust` `x86/x64 asm` `Python` `HLSL`  
-Kernel drivers · reverse engineering · anti-cheat · hypervisors · DirectX
+<table>
+  <tr>
+    <td><sub>LANGUAGES</sub></td>
+    <td>C++ &nbsp;·&nbsp; C &nbsp;·&nbsp; Rust &nbsp;·&nbsp; x86/x64 assembly &nbsp;·&nbsp; Python &nbsp;·&nbsp; HLSL</td>
+  </tr>
+  <tr>
+    <td><sub>FOCUS</sub></td>
+    <td>Windows kernel &nbsp;·&nbsp; hypervisors &nbsp;·&nbsp; anti-cheat &nbsp;·&nbsp; reverse engineering &nbsp;·&nbsp; DirectX</td>
+  </tr>
+</table>
 
 <br>
 
